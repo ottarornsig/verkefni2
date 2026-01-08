@@ -1,4 +1,4 @@
-#Verkefni 2 - Samsetningarskýrsla
+# Verkefni 2 - Samsetningarskýrsla
 
 ### Inngangur
 
