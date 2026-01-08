@@ -1,1 +1,2 @@
-# verkefni2
+# Verkefni 2
+
