@@ -24,7 +24,7 @@ Tölvan er með 32 GB RAM sem stendur fyrir random access memory, deilir því �
 
 ### Lokaorð
 
-Þessi hönnun gerrir MacBook Pro er létta og hraðvirka fullkomin fyrir nema sama hvað þeir eru að læra en mjög takmarkaðar breytingar á tölvu eftir kaup.
+Þessi hönnun gerir MacBook Pro létta og hraðvirka fullkomin fyrir nema sama hvað þeir eru að læra en mjög takmarkaðar breytingar á tölvu eftir kaup.
 
 
 
