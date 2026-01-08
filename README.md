@@ -16,6 +16,8 @@ Verkefni 2 - Samsetningarskýrsla
 
 Skjákortið er líka á Apple M2 Pro (SoC) kubbnum og það sér um svona myndvinnslu, grafík og slíkt. framleiðir allt sjónrænt
 
+![SoC](cpu.webp)
+
 ### minni (RAM)
 
 Tölvan er með 32 GB RAM sem stendur fyrir random access memory, deilir því á milli gpu og cpu á SoC og eykur mjög mikin hraða í tölvunni "ramið" er alveg fast lóðað og ekki hægt að breyta því
