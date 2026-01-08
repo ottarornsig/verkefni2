@@ -3,6 +3,7 @@
 ### Inngangur
 
 Þessi samsetningarskýrsla er um Macbook pro, 14 tommu skjá og árgerð 2023 tölvan er byggð á Apple M2 Pro örgjörva eða "chip" svo kallað hjá apple ástæðan afhverju þetta er kallað chip er útaf þetta er beinlínis ekki bara örgjörvinn eða "Cpu" á ensku. Þetta er frekar "SoC" eða system on a chip og gerir þetta þá mjög öðruvísi frá öðrum tölvum og það er svona smá ástæða fyrir því að annaðhvort hatarðu Mac vélar eða elskar þær.
+![A description of the image]()
 
 ### Cpu
 
